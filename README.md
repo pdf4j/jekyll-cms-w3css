@@ -1,3 +1,7 @@
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bruth/jekyll-docs-template/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+## Jekyll CMS with W3CSS
 
-Read the docs: http://bruth.github.io/jekyll-docs-template
+Refer to documents at https://srbala.github.io/jekyll-docs-template-w3css/
+
+#### History
+
+docuemnt template based @bruth work in https://github.com/bruth/jekyll-docs-template
