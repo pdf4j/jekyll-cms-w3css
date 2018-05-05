@@ -1,6 +1,6 @@
 ## Jekyll CMS with W3CSS
 
-Refer to documents at https://srbala.github.io/jekyll-docs-template-w3css/
+Refer to documents at https://srbala.github.io/jekyll-cms-w3css/
 
 #### History
 
